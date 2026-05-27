@@ -48,5 +48,8 @@ Read more about them here: [https://github.com/sinan-ozel/model-servers](https:/
 All of these publish with fully-automated CI/CD pipelines:
 
 [MCP Server Template](https://github.com/sinan-ozel/mcp-server-template-python)
+
 [Python Library Template](https://github.com/sinan-ozel/pypi-publish-with-cicd)
+
 [Microservice Template](https://github.com/sinan-ozel/microservice-ci-template)
+
