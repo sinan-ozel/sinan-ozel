@@ -35,7 +35,7 @@ A pytest module for very basic statistical tests. Repeat test multiple times and
 
 Find the build & testing pipeline here: [https://github.com/sinan-ozel/jupyterlab-on-kubernetes](https://github.com/sinan-ozel/jupyterlab-on-kubernetes)
 
-# My Model Servers
+# My Model Containers
 
 [![Docker Pulls llama.cuda.6gb](https://img.shields.io/docker/pulls/sinanozel/llama.cuda.6gb?label=docker%20pulls%20llama.cpp%206GB)](https://hub.docker.com/r/sinanozel/llama.cuda.6gb)
 [![Docker Pulls llama.cuda](https://img.shields.io/docker/pulls/sinanozel/llama.cuda?label=docker%20pulls%20llama)](https://hub.docker.com/r/sinanozel/llama.cuda)
