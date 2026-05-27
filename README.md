@@ -42,3 +42,11 @@ Find the build & testing pipeline here: [https://github.com/sinan-ozel/jupyterla
 [![Docker Pulls Ollama 0.12.11](https://img.shields.io/docker/pulls/sinanozel/ollama.0.12.11?label=docker%20pulls%200.12.11)](https://hub.docker.com/r/sinanozel/ollama.0.12.11)
 
 Read more about them here: [https://github.com/sinan-ozel/model-servers](https://github.com/sinan-ozel/model-servers)
+
+# My Template Repos
+
+All of these publish with fully-automated CI/CD pipelines:
+
+[MCP Server Template](https://github.com/sinan-ozel/mcp-server-template-python)
+[Python Library Template](https://github.com/sinan-ozel/pypi-publish-with-cicd)
+[Microservice Template](https://github.com/sinan-ozel/microservice-ci-template)
