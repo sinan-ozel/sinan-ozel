@@ -27,3 +27,8 @@ An opinionated black box tester to call a live MCP server and test it live again
 
 A pytest module for very basic statistical tests. Repeat test multiple times and pass if the underlying test passes a threshold.
 
+# My Custom JupyterLab Images for AI Work
+
+[![Docker Pulls JupyterLab LLM](https://img.shields.io/docker/pulls/sinanozel/kubyterlab-llm?label=docker%20pulls%20kubyterlab-llm)](https://hub.docker.com/r/sinanozel/kubyterlab-llm)
+[![Docker Pulls JupyterLab Image](https://img.shields.io/docker/pulls/sinanozel/kubyterlab-img?label=docker%20pulls%20kubyterlab-img)](https://hub.docker.com/r/sinanozel/kubyterlab-img)
+[![Docker Pulls JupyterLab Image with <12GB VRAM Models](https://img.shields.io/docker/pulls/sinanozel/kubyterlab-img-12g?label=docker%20pulls%20kubyterlab-img-12g)](https://hub.docker.com/r/sinanozel/kubyterlab-img-12g)
