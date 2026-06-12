@@ -43,6 +43,9 @@ Find the build & testing pipeline here: [https://github.com/sinan-ozel/jupyterla
 
 Read more about them here: [https://github.com/sinan-ozel/model-servers](https://github.com/sinan-ozel/model-servers)
 
+# My MCP Servers
+![Finance Tools](https://img.shields.io/docker/v/sinanozel/finance-tools?label=Docker%20Hub)
+
 # My Template Repos
 
 All of these publish with fully-automated CI/CD pipelines:
