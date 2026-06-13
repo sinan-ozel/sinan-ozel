@@ -44,7 +44,7 @@ Find the build & testing pipeline here: [https://github.com/sinan-ozel/jupyterla
 Read more about them here: [https://github.com/sinan-ozel/model-servers](https://github.com/sinan-ozel/model-servers)
 
 # My MCP Servers
-![Finance Tools](https://img.shields.io/docker/v/sinanozel/finance-tools?label=Docker%20Hub)
+[![Docker Pulls Finance Tools](https://img.shields.io/docker/pulls/sinanozel/finance-tools?label=docker%20pulls%20finance-tools)](https://hub.docker.com/r/sinanozel/finance-tools)
 
 # My Template Repos
 
