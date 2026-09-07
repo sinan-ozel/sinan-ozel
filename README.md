@@ -21,7 +21,7 @@ An opinionated, lightweight black-box contract tester against a live API using i
 🤖 **Your MCP server is only as good as what it tells the LLM.**
 An opinionated black box tester to call a live MCP server and test it live against its own contracts
 
-## 🎲 pytest-repeated
+## 🎲 [pytest-repeated](https://pypi.org/project/pytest-repeated/)
 ![Downloads](https://static.pepy.tech/badge/pytest-repeated)
 ![Monthly Downloads](https://static.pepy.tech/badge/pytest-repeated/month)
 
@@ -37,14 +37,17 @@ Find the build & testing pipeline here: [https://github.com/sinan-ozel/jupyterla
 
 # My Model Containers
 
+[![Docker Pulls llama.cuda.12gb](https://img.shields.io/docker/pulls/sinanozel/llama.cuda.12gb?label=docker%20pulls%20llama.cpp%2012GB)](https://hub.docker.com/r/sinanozel/llama.cuda.12gb)
 [![Docker Pulls llama.cuda.6gb](https://img.shields.io/docker/pulls/sinanozel/llama.cuda.6gb?label=docker%20pulls%20llama.cpp%206GB)](https://hub.docker.com/r/sinanozel/llama.cuda.6gb)
 [![Docker Pulls llama.cuda](https://img.shields.io/docker/pulls/sinanozel/llama.cuda?label=docker%20pulls%20llama)](https://hub.docker.com/r/sinanozel/llama.cuda)
 [![Docker Pulls Ollama 0.12.11](https://img.shields.io/docker/pulls/sinanozel/ollama.0.12.11?label=docker%20pulls%200.12.11)](https://hub.docker.com/r/sinanozel/ollama.0.12.11)
+[![Docker Pulls Upscaler](https://img.shields.io/docker/pulls/sinanozel/upscaler?label=docker%20pulls%20upscaler)](https://hub.docker.com/r/sinanozel/upscaler)
 
 Read more about them here: [https://github.com/sinan-ozel/model-servers](https://github.com/sinan-ozel/model-servers)
 
 # My MCP Servers
 [![Docker Pulls Finance Tools](https://img.shields.io/docker/pulls/sinanozel/finance-tools?label=docker%20pulls%20finance-tools)](https://hub.docker.com/r/sinanozel/finance-tools)
+[![Docker Pulls Upscaler](https://img.shields.io/docker/pulls/sinanozel/upscaler?label=docker%20pulls%20upscaler)](https://hub.docker.com/r/sinanozel/upscaler)
 
 # My Template Repos
 
