@@ -21,7 +21,7 @@ An opinionated, lightweight black-box contract tester against a live API using i
 🤖 **Your MCP server is only as good as what it tells the LLM.**
 An opinionated black box tester to call a live MCP server and test it live against its own contracts
 
-## 🎲 [pytest-repeated](https://pypi.org/project/pytest-repeated/)
+## 🎲 pytest-repeated
 ![Downloads](https://static.pepy.tech/badge/pytest-repeated)
 ![Monthly Downloads](https://static.pepy.tech/badge/pytest-repeated/month)
 
