@@ -2,17 +2,12 @@ When I write code for my hobbies, I put it on GitHub and on Docker Hub in case o
 
 # 📚 Python Libraries
 
-## 🗄️ synced-memory
-![Downloads](https://static.pepy.tech/badge/synced-memory)
-![Monthly Downloads](https://static.pepy.tech/badge/synced-memory/month)
-
-A Python abstraction layer that makes Redis or DragonflyDB behave like a shared Python object across processes/microservices.
-
 ## 🧪 pytest-openapi
 ![Downloads](https://static.pepy.tech/badge/pytest-openapi)
 ![Monthly Downloads](https://static.pepy.tech/badge/pytest-openapi/month)
 
 An opinionated, lightweight black-box contract tester against a live API using its OpenAPI specification as the source of truth
+[github](https://github.com/sinan-ozel/pytest-openapi) [pypi](https://pypi.org/project/pytest-openapi/)
 
 ## 🤖 pytest-mcp-tools
 ![Downloads](https://static.pepy.tech/badge/pytest-mcp-tools)
@@ -20,12 +15,22 @@ An opinionated, lightweight black-box contract tester against a live API using i
 
 🤖 **Your MCP server is only as good as what it tells the LLM.**
 An opinionated black box tester to call a live MCP server and test it live against its own contracts
+[github](https://github.com/sinan-ozel/pytest-mcp-tools) [pypi](https://pypi.org/project/pytest-mcp-tools/)
 
 ## 🎲 pytest-repeated
 ![Downloads](https://static.pepy.tech/badge/pytest-repeated)
 ![Monthly Downloads](https://static.pepy.tech/badge/pytest-repeated/month)
 
 A pytest module for very basic statistical tests. Repeat test multiple times and pass if the underlying test passes a threshold.
+[github](https://github.com/sinan-ozel/pytest-repeated) [pypi](https://pypi.org/project/pytest-repeated/)
+
+## 🗄️ synced-memory
+![Downloads](https://static.pepy.tech/badge/synced-memory)
+![Monthly Downloads](https://static.pepy.tech/badge/synced-memory/month)
+
+A Python abstraction layer that makes Redis or DragonflyDB behave like a shared Python object across processes/microservices.
+[github](https://github.com/sinan-ozel/synced-memory) [pypi](https://pypi.org/project/synced-memory/)
+
 
 # My Custom JupyterLab Images for AI Work
 
